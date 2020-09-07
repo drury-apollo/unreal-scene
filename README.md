@@ -1,4 +1,4 @@
 # unreal-scene
 
 ## current notes
-Currently, we really just have some camera rigs set up and not much else. While there's nothing to take a screenshot automatically right now, you can take a screenshot from the perspective of the camera after starting the game with tilde "~" which will allow you to run the command HighResShot 1920x1080 (for testing purposes) 
+Currently, you can change which camera you're looking through with keybindings 1, 2, and 3. To take a screenshot, press Enter. The filename will include which camera we're looking through. 
